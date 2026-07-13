@@ -1,0 +1,6 @@
+{
+  "name": "Word Physics Learner",
+  "description": "A landscape-optimized smartphone vocabulary learning web app with interactive Canvas physics, swipe-to-shuffle mechanics, and size-scaling retention cues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
